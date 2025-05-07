@@ -1,4 +1,4 @@
-# 🧠 Tech Review: Comparing OpenAI and Amazon Bedrock APIs
+# Tech Review: Comparing OpenAI and Amazon Bedrock APIs
 
 This project evaluates and compares the performance of **OpenAI GPT-4o** and **Amazon Bedrock Claude 3 Sonnet** for three important software development tasks:
 
