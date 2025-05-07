@@ -142,7 +142,7 @@ All code, graphs, data, and report available at:
 
 ---
 
-## 👥 Authors
+## Authors
 
 - **Abhishek Som** — [asom2@illinois.edu]  
 - **Neel Harip** — [nhari7@illinois.edu]
