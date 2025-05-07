@@ -10,7 +10,7 @@ We use 20 Python and C++ code snippets across different difficulty levels and ev
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### Create Virtual Environment
 
@@ -138,7 +138,7 @@ Each result in the JSON output files contains:
 
 All code, graphs, data, and report available at:
 
-👉 [https://github.com/abhisheksom22/Tech-Review-api-evaluator.git](https://github.com/abhisheksom22/Tech-Review-api-evaluator.git)
+[https://github.com/abhisheksom22/Tech-Review-api-evaluator.git](https://github.com/abhisheksom22/Tech-Review-api-evaluator.git)
 
 ---
 
